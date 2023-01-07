@@ -2,3 +2,4 @@
 markdown: kramdown
 remote_theme: crisrhymes/bulma-clean-theme
 description: Some tips, tools and guides that i like to use
+timezone: America/Fortaleza
