@@ -3,3 +3,9 @@ markdown: kramdown
 remote_theme: chrisrhymes/bulma-clean-theme
 description: Some tips, tools and guides that i like to use
 timezone: America/Fortaleza
+
+defaults:
+  - scope:
+      path: "_posts/"
+    values:
+      static: "true"
