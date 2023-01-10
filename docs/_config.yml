@@ -3,7 +3,7 @@ markdown: kramdown
 remote_theme: chrisrhymes/bulma-clean-theme
 description: Some tips, tools and guides that i like to use
 timezone: America/Fortaleza
-permalink: pages.github.io/:title
+permalink: pages.github.io/:url
 
 defaults:
   - scope:
