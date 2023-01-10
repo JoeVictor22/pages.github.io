@@ -5,7 +5,6 @@ description: Some tips, tools and guides that i like to use
 timezone: America/Fortaleza
 baseurl: ""
 url: "pages.github.io"
-permalink: /:title
 
 defaults:
   - scope:
