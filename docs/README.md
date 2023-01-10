@@ -1,8 +1,6 @@
 # Landing page
 
-you landed here
-
-:3
+you landed here :3
 
 ## hello
 
